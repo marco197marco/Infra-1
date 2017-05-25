@@ -4,7 +4,6 @@ public class ProcesoB {
     
 private int id;
 private String estado;
-private string lol;
-    
-    
+private String lol;
+private int cant;    
 }

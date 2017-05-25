@@ -7,7 +7,9 @@ private String estado;
 private int contador;
 
 
-
+private int getId(){
+return this.id;
+}
 
     
 }
